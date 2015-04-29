@@ -1,0 +1,15 @@
+GENERAL:
+-bad/incomplete documentation (missing info, features, etc.)
+-proper installer needed
+
+NAVIGATION:
+-map camera to mouse middle button, with options to emulate middle button for setup that lacks it
+
+INTERFACE:
+-tabbed menu, with the editor and viewer integrated
+
+EDITOR:
+-no undo for most functions
+
+ERROR REPORT:
+-crashed while attempt to remove hatch [22:18 29-04-2015]
